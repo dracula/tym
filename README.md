@@ -2,13 +2,21 @@
 
 > A dark theme for [tym](https://github.com/endaaman/tym).
 
-![Screenshot](screenshot.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
-Put theme.lua inside your ~/.config/tym folder and you're done!
+All instructions can be found at [draculatheme.com/tym](https://draculatheme.com/tym).
+
+## Team
+
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/gnsfujiwara/Tym-Dracula-theme/graphs/contributors).
+
+[![gnsfujiwara](https://github.com/gnsfujiwara.png?size=100)](https://github.com/gnsfujiwara) |
+--- |
+[gnsfujiwara](https://github.com/gnsfujiwara) |
 
 ## License
 
-[GPL-3.0 License](LICENSE)
+[MIT License](./LICENSE)
 
