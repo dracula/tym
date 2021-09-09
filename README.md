@@ -10,5 +10,5 @@ Put theme.lua inside your ~/.config/tym folder and you're done!
 
 ## License
 
-[GPL License](LICENSE)
+[GPL-3.0 License](LICENSE)
 
