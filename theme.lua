@@ -1,4 +1,3 @@
--- Configurando o tema Dracula
 local bg = '#282a36'
 local fg = '#f8f8f2'
 return {
