@@ -6,7 +6,7 @@
 
 ## Install
 
-put theme.lua inside your /home/<user>/.config/tym folder and you're done!
+Put theme.lua inside your ~/.config/tym folder and you're done!
 
 ## License
 
