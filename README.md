@@ -1,5 +1,5 @@
-# Tym-Dracula-theme
-Yet another dracula theme, but for tym terminal written in lua!
+# Dracula for [tym](https://github.com/endaaman/tym)
+> A dark theme for [tym](https://github.com/endaaman/tym).
+![Screenshot](screenshot.png)
 
-## Usage:
-just put theme.lua in your tym config folder, it's usually ~/.config/tym and that's it
+
