@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/tym](https://draculatheme.com
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/gnsfujiwara/Tym-Dracula-theme/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/tym/graphs/contributors).
 
 [![gnsfujiwara](https://github.com/gnsfujiwara.png?size=100)](https://github.com/gnsfujiwara) |
 --- |
@@ -19,4 +19,3 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 ## License
 
 [MIT License](./LICENSE)
-
