@@ -4,6 +4,7 @@ return {
   -- Special
   color_foreground = '#f8f8f2',
   color_background = '#282a36',
+  color_window_background = '#282a36',
   color_cursor = '#f8f8f2',
   color_cursor_foreground = '#282a36',
   color_highlight = '#44475a',
